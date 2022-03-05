@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Itay212121
 - 👀 I’m interested in programming, And I want to learn new things!
-- 🌱 I’m currently learning networking
 
 
 <!---
