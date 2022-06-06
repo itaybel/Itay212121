@@ -1,10 +1,6 @@
 # Hi there, I'm Itay 👋 
 ## I'm a first year computer science student at the Open University of Israel!
 
-- 🌱 I’m currently learning The C Programming language 💻
-- 🥅 2022 Goals: Get good grades 💯
-
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
