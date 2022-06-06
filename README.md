@@ -12,15 +12,8 @@
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!PNG/bootstrap.png" style="padding-right:10px;" />]
+[<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!PNG/bootstrap.png" style="padding-right:10px;" />]
 
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!PNG/java.png" style="padding-right:10px;" />]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!PNG/linux.png" style="padding-right:10px;" />]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!PNG/ubuntu.png" style="padding-right:10px;" />]
-
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!PNG/ubuntu.png" style="padding-right:10px;" />]
-
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!PNG/ubuntu.png" style="padding-right:10px;" />]
-
-
-
+[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!PNG/java.png" style="padding-right:10px;" />]
+[<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!PNG/linux.png" style="padding-right:10px;" />]
+[<img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!PNG/ubuntu.png" style="padding-right:10px;" />]
