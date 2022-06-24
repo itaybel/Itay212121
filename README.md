@@ -1,5 +1,5 @@
 # Hi there, I'm Itay 👋 
-## I'm a first year computer science student at the Open University of Israel!
+## I'm a second year computer science student at the Open University of Israel!
 
 ### Languages and Tools:
 
